@@ -6,5 +6,4 @@ fun main(args: Array<String>){
 
     println("Int: " + a)
     println("Primeiro char da String b é: " + b.first())
-    
 }
